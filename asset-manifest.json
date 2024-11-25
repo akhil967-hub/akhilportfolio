@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/akhilportfolio/static/css/main.0e7c52c9.css",
+    "main.js": "/akhilportfolio/static/js/main.668c0b09.js",
+    "static/media/vedio2.mp4": "/akhilportfolio/static/media/vedio2.0df7c18b4b9b5228dfe0.mp4",
+    "static/media/vedio1.mp4": "/akhilportfolio/static/media/vedio1.9a9b5a7a1d4c73f8c9e5.mp4",
+    "static/media/vedio4.mp4": "/akhilportfolio/static/media/vedio4.24c26e7e874113a5c624.mp4",
+    "static/media/vedio7.mp4": "/akhilportfolio/static/media/vedio7.8ef06f85db913e4c8b50.mp4",
+    "static/media/vedio5.mp4": "/akhilportfolio/static/media/vedio5.03f0272520173c6b5a6f.mp4",
+    "static/media/vedio3.mp4": "/akhilportfolio/static/media/vedio3.8240909672f6969809da.mp4",
+    "static/media/vedio6.mp4": "/akhilportfolio/static/media/vedio6.6d0bcb9d213e1a4aa31a.mp4",
+    "static/media/vedio9.mp4": "/akhilportfolio/static/media/vedio9.ce8873ccb1c19ab3ee32.mp4",
+    "static/media/vedio16.mp4": "/akhilportfolio/static/media/vedio16.a9f73e4ff3267056399d.mp4",
+    "static/media/vedio15.mp4": "/akhilportfolio/static/media/vedio15.61b2c497537f24c1e684.mp4",
+    "static/media/vedio8.mp4": "/akhilportfolio/static/media/vedio8.6b756c842b84a54f63c0.mp4",
+    "static/media/vedio11.mp4": "/akhilportfolio/static/media/vedio11.0485cbf7383d977be990.mp4",
+    "static/media/vedio12.mp4": "/akhilportfolio/static/media/vedio12.976779a77919aee2cb76.mp4",
+    "static/media/certificates1 (1).jpg": "/akhilportfolio/static/media/certificates1 (1).406c5059782c54f09d43.jpg",
+    "static/media/vedio14.mp4": "/akhilportfolio/static/media/vedio14.8691839ac254d178dab9.mp4",
+    "static/media/vedio13.mp4": "/akhilportfolio/static/media/vedio13.bcb90c64ccbf498c1299.mp4",
+    "static/media/certificates1 (5).jpg": "/akhilportfolio/static/media/certificates1 (5).e69d1e69579aa54bb90d.jpg",
+    "static/media/Akhil (1).jpg": "/akhilportfolio/static/media/Akhil (1).0f44f054db8c57b01632.jpg",
+    "static/media/vedio10.mp4": "/akhilportfolio/static/media/vedio10.c6b2860db7443e255c7b.mp4",
+    "index.html": "/akhilportfolio/index.html",
+    "main.0e7c52c9.css.map": "/akhilportfolio/static/css/main.0e7c52c9.css.map",
+    "main.668c0b09.js.map": "/akhilportfolio/static/js/main.668c0b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7c52c9.css",
+    "static/js/main.668c0b09.js"
+  ]
+}
