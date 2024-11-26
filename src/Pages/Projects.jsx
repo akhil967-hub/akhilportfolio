@@ -45,6 +45,7 @@ const Project = () => {
                 loop
                 playsInline
                 autoPlay={false} // Disable autoplay for manual control
+                 preload="metadata"
                 ref={(video) => {
                   // Control playback based on playingIndex
                   if (playingIndex === index && video) {
