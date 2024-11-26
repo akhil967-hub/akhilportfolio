@@ -31,7 +31,8 @@ export default function Header() {
   };
 
   const handleMouseEnter = () => {
-    if (window.innerWidth >= 1024) { // only apply hover on desktop screens
+    if (window.innerWidth >= 1024) {
+      // only apply hover on desktop screens
       setIsMenuOpen(true);
     }
   };
@@ -60,7 +61,7 @@ export default function Header() {
       {isMenuOpen && (
         <div
           ref={menuRef}
-          className="bg-white shadow-md py-3 px-6 fixed top-4 left-20 z-10 text-lg"
+          className="bg-white shadow-md py-3 px-6 fixed top-4 left-20 z-10 text-lg "
         >
           <ul className="flex flex-col items-start gap-4 italic font-semibold">
             <li>

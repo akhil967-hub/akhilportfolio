@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Header />
 
-      <div className="main-content">
+      <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -21,8 +21,10 @@ function App() {
           <Route path="/certificates" element={<Certificates />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/projects" element={<Projects />} />
+          {/* Fallback to Home for undefined routes */}
+          <Route path="*" element={<Home />} />
         </Routes>
-      </div>
+      </main>
     </Router>
   );
 }
